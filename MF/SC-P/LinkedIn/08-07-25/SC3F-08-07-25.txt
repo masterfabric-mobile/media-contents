@@ -1,4 +1,5 @@
-🧱 Why build before you’ve mapped the system?
+#MFSC3F - 08.07.25 | Why build before you’ve mapped the system?
+
 The Architecture-First approach flips the script: Instead of diving into code, you design structure, boundaries, and responsibilities first. Here's why that’s a game changer:
 
 🔷 Systems Designed Before Code Is Written
