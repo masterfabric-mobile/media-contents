@@ -1,0 +1,17 @@
+#SC-CL-050925 - 🌐 REST API
+
+Where structure rules. When scale matters.
+
+REST isn’t just about HTTP — it’s about clarity, consistency, and resource-based thinking.
+A well-designed REST API becomes the backbone of scalable mobile and web systems.
+
+In Code Lexury, REST is more than a style — it’s a contract between consumers and providers.
+
+🔍 Learn:
+– When REST is the right abstraction
+– Where to apply verbs, nouns, and status codes
+– What breaks true RESTful design in real life
+
+🔗 masterfabric.co
+
+#MF #CodeLexury #RESTAPI #BackendDesign #MobileStack
