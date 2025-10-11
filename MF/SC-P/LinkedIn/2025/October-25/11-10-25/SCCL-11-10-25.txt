@@ -1,0 +1,17 @@
+#SC-CL-111025 - 🍒 Git Cherry-Pick
+
+Where commits travel. When context stays.
+
+Cherry-pick isn’t merging — it’s precision transplanting.
+Use it to bring a specific commit into another branch without the full branch history. Clean, targeted, and powerful — if used with care.
+
+In Code Lexury, cherry-pick is for those who move with intention — not by accident.
+
+🔍 Learn:
+– When to cherry-pick instead of merge or rebase
+– Where conflicts commonly arise
+– What it means for commit history and traceability
+
+🔗 masterfabric.co
+
+#MF #CodeLexury #Git #CherryPick #Github #VersionControl #DevOps
