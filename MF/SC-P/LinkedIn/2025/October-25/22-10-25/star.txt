@@ -1,0 +1,22 @@
+🚀 OSMEA is growing fast — powered by the community! 💪✨
+
+We’re incredibly proud to see OSMEA gaining momentum and support from developers all around the world 🌍
+
+In just a short time, our open-source Flutter architecture for e-commerce has reached:
+⭐ 45+ GitHub Stars
+👥 10+ Collaborators
+💻 3.1K+ Commits
+🔁 210+ Pull Requests
+
+These numbers represent more than metrics — they reflect a passionate community coming together to build better, cleaner, and scalable mobile solutions with Flutter.
+
+💡 OSMEA continues to evolve thanks to your contributions, feedback, and collaboration. Every issue, PR, and discussion helps us push this project further and make it more robust for everyone.
+
+If you haven’t yet explored it, check it out here 👇
+🔗 https://osmea.masterfabric.co/
+
+💻 GitHub: github.com/masterfabric-mobile/osmea
+
+Huge thanks to everyone who has supported this journey so far — the best is yet to come! 🚀
+
+#Flutter #OpenSource #OSMEA #MobileDevelopment #Ecommerce #DevCommunity #SoftwareArchitecture #Dart #Innovation #TechCommunity
