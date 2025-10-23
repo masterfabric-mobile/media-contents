@@ -1,0 +1,17 @@
+🔒 How to Build Safe & Secure Development in Teams?
+
+Security isn’t a last step — it’s a mindset that starts with collaboration.
+From code reviews to CI/CD pipelines, every layer of a product’s lifecycle deserves protection. ⚙️
+
+Join us on October 23, 2025 for an open session on how teams can:
+💡 Collaborate effectively
+🔐 Build with security in mind
+🚀 Protect systems while scaling fast
+
+🗓 Date: October 23, 2025
+🕗 Time: 08 PM – 09 PM
+📍 Location: Google Meet
+
+➡️ Send us a DM to join!
+
+#MasterFabric #SecureDevelopment #TeamCollaboration #DevOps #EngineeringCulture #CyberSecurity #FutureTogether
