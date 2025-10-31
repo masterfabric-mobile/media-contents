@@ -1,0 +1,17 @@
+#SC-CL-311025 - 🌿 Branch
+
+Where ideas split. When focus matters.
+
+A branch isn’t just a copy — it’s an isolated timeline for experimentation, collaboration, and delivery.
+In modern workflows, branching is how teams move fast without breaking main.
+
+In Code Lexury, a branch is not just structure — it's strategy.
+
+🔍 Learn:
+– When to create feature vs release branches
+– Where branching models (Git Flow, trunk-based) fit your team
+– What practices prevent merge hell
+
+🔗 masterfabric.co
+
+#MF #CodeLexury #Git #BranchStrategy #VersionControl #SC-CL-311025
