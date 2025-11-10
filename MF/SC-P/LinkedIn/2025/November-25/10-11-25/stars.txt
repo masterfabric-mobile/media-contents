@@ -1,0 +1,10 @@
+⭐ OSMEA just hit 75 stars on GitHub!
+
+What started as a modular e-commerce foundation built with Flutter & Dart has grown into a thriving open-source ecosystem — powered by 10+ collaborators, 3.3K+ commits, and 220+ PRs. ⚙️
+
+OSMEA isn’t just a codebase — it’s a movement toward open, scalable, and production-ready mobile commerce. 🌍✨
+
+Explore the repo, contribute, or fork your own journey:
+🔗 github.com/masterfabric-mobile/osmea
+
+#OSMEA #MasterFabric #OpenSource #Flutter #Dart #Ecommerce #FutureTogether #BuildTheFuture #DeveloperCommunity
