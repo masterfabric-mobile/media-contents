@@ -1,0 +1,12 @@
+MasterFabric: The AI-Supported Dev Accelerator 2025–2026!
+At MasterFabric, we believe AI isn’t here to replace developers — it’s here to amplify them.
+--
+ This 13-week journey is all about building smarter, faster, and more human-centered products with AI-supported workflows.
+From React and Flutter to Supabase, Figma, and GitHub Actions, we’re diving deep into the full modern development cycle — powered by Cursor, our AI-native IDE of choice.
+--
+💡 Why Cursor?
+ Because it’s not just an editor — it’s a co-pilot for creativity, helping us write, refactor, and ship ideas at lightning speed while staying in flow.
+This isn’t just another AI camp.
+ It’s a movement toward AI-accelerated development — where innovation meets iteration.
+
+hashtag#MasterFabric hashtag#AI hashtag#Cursor hashtag#Flutter hashtag#React hashtag#Figma hashtag#Supabase hashtag#GitHubActions hashtag#AIDrivenDevelopment hashtag#Innovation

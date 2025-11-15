@@ -1,0 +1,16 @@
+MasterFabric: The AI-Supported Dev Accelerator 2025–2026
+
+At MasterFabric, we focus on equipping developers with modern, efficient, and scalable tools — and for mobile development, that means Expo.
+
+📱 Why Expo?
+We selected Expo as our designated cross-platform framework to help participants build end-to-end mobile solutions with clarity and speed. It removes unnecessary complexity, enabling teams to move from prototype to production environments without friction.
+
+🔗 Unified React Ecosystem
+Our program teaches React for the web and extends the same ecosystem to mobile through React Native + Expo.
+This allows participants to apply their React knowledge directly to mobile development, ensuring architectural consistency across platforms — a core pillar of the “architectural thinking” approach we cultivate.
+
+With Expo, teams experience a streamlined, AI-supported workflow where web and mobile align under one coherent development philosophy.
+
+#MasterFabric #AI #Expo #ReactNative #React #CrossPlatform
+#AIAcceleratedDevelopment #MobileDevelopment #Tech2025
+#Innovation #ModernDevelopment #ArchitecturalThinking
