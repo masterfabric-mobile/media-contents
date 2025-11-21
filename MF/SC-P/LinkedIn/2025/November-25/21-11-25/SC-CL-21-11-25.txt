@@ -1,0 +1,17 @@
+#SC-CL-211125 - 🍪 Cookie
+
+Where sessions persist. When memory is short.
+
+Cookies aren’t just about storage — they’re about identity, preferences, and session continuity.
+Used correctly, they enhance UX and enable personalization. Used carelessly, they become a liability.
+
+In Code Lexury, cookies aren’t snacks — they’re strategic payloads.
+
+🔍 Learn:
+– When to use cookies vs local storage
+– Where secure, HttpOnly, and SameSite flags matter
+– What compliance (GDPR, CCPA) means for cookie handling
+
+🔗 masterfabric.co￼
+
+#MF #CodeLexury #Cookie #WebSecurity #FrontendDev 
