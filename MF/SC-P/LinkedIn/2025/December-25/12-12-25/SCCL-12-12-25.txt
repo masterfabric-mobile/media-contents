@@ -1,0 +1,17 @@
+#SC-CL-051225 - 📬 Pull Request
+
+Where review starts. When change is ready.
+
+A pull request isn’t just a merge proposal — it’s a conversation starter.
+It invites collaboration, enforces quality, and documents intent. The best code doesn’t just work — it gets reviewed, discussed, and refined.
+
+In Code Lexury, a pull request is more than a process — it's craftsmanship in progress.
+
+🔍 Learn:
+– When to open vs draft a PR
+– Where to give meaningful code reviews
+– What makes a PR clean, clear, and mergeable
+
+🔗 masterfabric.co
+
+#MF #CodeLexury #PullRequest #Git #CodeReview
